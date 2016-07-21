@@ -14,8 +14,11 @@ Here is a compilation of resources I have found useful for some reason. Your mil
 
 * [/r/learprogramming resources][4]
 
+* [Stack Overflow C++ documentation][5] (beta)
+
 [0]: http://vimgifs.com/
 [1]: http://vimgifs.com/
 [2]: https://github.com/karan/Projects
 [3]: http://wiki.ros.org/ROS/Tutorials
 [4]: https://www.reddit.com/r/learnprogramming/wiki/index#wiki_learning_resources
+[5]: http://stackoverflow.com/documentation/c%2b%2b/topics
