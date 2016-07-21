@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Test"
-date:   2016-07-20 15:04:00 -0800
-categories: posts
----
-Test post!
