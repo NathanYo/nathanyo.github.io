@@ -4,9 +4,7 @@ title:  "Hello World!"
 date:   2016-07-20 15:52:15 -0700
 categories: posts
 ---
-
-# Hello Worlld!
--Nathan Yocum, 20 July 2016
+# Welcome!
 
 {% highlight c++ %}
 int main(){
