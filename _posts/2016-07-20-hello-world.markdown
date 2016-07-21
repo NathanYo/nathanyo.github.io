@@ -31,9 +31,6 @@ A bit more about me: I was in the University of Nevada marching band for two yea
 I am also a very involved member on campus, participating in [ACM][acm], IEEE, and Nevada Robotics Society.
 
 ---
-Nathan Yocum
-
-nayocum [at] nevada.unr.edu
 
 [Github]: http://github.com/NathanYo
 [cse]: http://cse.unr.edu
