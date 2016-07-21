@@ -6,11 +6,11 @@ categories: posts
 ---
 # List of Projects
 
-[Algorithms][algo] is code I am creating as I complete Coursera's [Algorithms: Design and Analysis][coursera].
+* [Algorithms][algo] is code I am creating as I complete Coursera's [Algorithms: Design and Analysis][coursera].
 
-[Pokemon-Go-Outside][pogo] is a fork of the [Cloud-to-Butt][ctb] Chrome extension that replaces "Pokemon Go" with "going outside".
+* [Pokemon-Go-Outside][pogo] is a fork of the [Cloud-to-Butt][ctb] Chrome extension that replaces "Pokemon Go" with "going outside".
 
-[Verb the Noun Bot][verb] was my final project for my introduction to computer science course. Very basic code that is inefficient because it is from an introductory course where we learned C/C++. 
+* [Verb the Noun Bot][verb] was my final project for my introduction to computer science course. Very basic code that is inefficient because it is from an introductory course where we learned C/C++. 
 The project was written in Python 2.7 using the [tweepy][tweepy] library.
 
 ---
