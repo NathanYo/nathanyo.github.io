@@ -16,9 +16,12 @@ Here is a compilation of resources I have found useful for some reason. Your mil
 
 * [Stack Overflow C++ documentation][5] (beta)
 
+* [Regex101][6] is useful to learn and make regex magic
+
 [0]: http://vimgifs.com/
 [1]: http://vimgifs.com/
 [2]: https://github.com/karan/Projects
 [3]: http://wiki.ros.org/ROS/Tutorials
 [4]: https://www.reddit.com/r/learnprogramming/wiki/index#wiki_learning_resources
 [5]: http://stackoverflow.com/documentation/c%2b%2b/topics
+[6]: https://regex101.com/
