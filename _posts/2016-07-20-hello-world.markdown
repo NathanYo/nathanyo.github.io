@@ -30,7 +30,7 @@ I am also a very involved member on campus, participating in [ACM][acm], IEEE, a
 
 ---
 
-[Github]: http://github.com/NathanYo
+[Github]: http://github.com/NathanYocum
 [cse]: http://cse.unr.edu
 [rrl]: http://rrl.cse.unr.edu/en/
 [acm]: http://www.unracm.com/
