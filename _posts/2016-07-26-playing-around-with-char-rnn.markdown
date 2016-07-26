@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Playing Around with RNNs: Song Lyrics"
-date:   2016-07-20 17:12:15 -0700
+date:   2016-07-26 06:33:15 -0700
 categories: posts
 ---
 ### What is char-rnn?
