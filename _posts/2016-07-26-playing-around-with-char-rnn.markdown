@@ -29,148 +29,148 @@ The Generated Lyrics:
 
 ---
 
-I'm taking, it's will redem on
+    I'm taking, it's will redem on
 
-And we were better air home
+    And we were better air home
 
-We had to know
+    We had to know
 
-The end I be gonna lips around, and my hell
+    The end I be gonna lips around, and my hell
 
-I stand nowing for restame enough it
+    I stand nowing for restame enough it
 
-And the places that this all pretty as nark
+    And the places that this all pretty as nark
 
-I look a man struting there? 
+    I look a man struting there? 
 
-Stayed myself into the dark
+    Stayed myself into the dark
 
-And it's all so far up down
+    And it's all so far up down
 
-We're on a reabled up or and so don't least care
+    We're on a reabled up or and so don't least care
 
-What aches your legs wake
+    What aches your legs wake
 
-But they want me write everything
+    But they want me write everything
 
-A bitter
+    A bitter
 
-Well shoped away? (I'm paty it all
+    Well shoped away? (I'm paty it all
 
-Befiled all neats out
+    Befiled all neats out
 
-Oh, and it
+    Oh, and it
 
-That isn't about fo
-
----
-
- means nothing
-
-You care that I need some come.
-
-Oh-Ne0 realth when say
-
-Good, I love you
-
-Bick up to the light
-
-He said we were slifth and want above ridi
-
-JAst one to Ase?
-
-
-Wo believed the sylegore calleds
-
-I'll let it all drong
-
-And she saids that could pretty chain.
-
-we didn't learned up to be pleasen.?
-
-Ah
-
-Oh-oh-oh-oh
-
-Oh-oh-Oh, and
-
-Drink about your 'em of just brass start to me 
-
-Wishown we belonger, you're fred and just like you with me
-
-Gave, be blank out with the world
-
-Well, Clafousce old off some
+    That isn't about fo
 
 ---
 
- Gow Goo-hour,
+    means nothing
 
-I could wear all the time
+    You care that I need some come.
 
-I am all god she goes
+    Oh-Ne0 realth when say
 
-You know I kept your blue trust
+    Good, I love you
 
-That reserdy get it malrop
+    Bick up to the light
 
-Carry your tcownough,
+    He said we were slifth and want above ridi
 
-“We'll tring yewfull known
+    JAst one to Ase?
 
-Even feels are aspen your eyes
 
-And if I looked)
+    Wo believed the sylegore calleds
 
-I've got a laughthay now
+    I'll let it all drong
 
-And when the way will gonna connect
+    And she saids that could pretty chain.
 
-The light cuzda blears
+    we didn't learned up to be pleasen.?
 
-Sometite plan no water
+    Ah
 
-Be sexarays against and like a fitted shirt
+    Oh-oh-oh-oh
 
-You just blanketed them who'd settled's away
+    Oh-oh-Oh, and
 
-Dirttapped.
+    Drink about your 'em of just brass start to me 
 
-Girl when I hock there time (Cone came or news
+    Wishown we belonger, you're fred and just like you with me
 
-While the kids that come 
+    Gave, be blank out with the world
+
+    Well, Clafousce old off some
 
 ---
 
- ano man
+    Gow Goo-hour,
 
-And I have to those who your mean
+    I could wear all the time
 
-You just don't care but the door
+    I am all god she goes
 
-And when she, bye, bye, bye, really for the nag. 
+    You know I kept your blue trust
 
-Say about look songs
+    That reserdy get it malrop
 
-I'd be good, and og clame it
+    Carry your tcownough,
 
-Well all my swem and said to me
+    “We'll tring yewfull known
 
-And when you talked up
+    Even feels are aspen your eyes
 
-Like town, tired every right. 
+    And if I looked)
 
-But what the way we still not so I can stuped for us to high
+    I've got a laughthay now
 
-and we're waiting flie.
+    And when the way will gonna connect
 
-And year enough your say there
+    The light cuzda blears
 
-Who Xcom, you throw yourself
+    Sometite plan no water
 
-Who was it all they stayed out your lovery. 
+    Be sexarays against and like a fitted shirt
 
-I just want my home that highwest it's uspares
+    You just blanketed them who'd settled's away
+
+    Dirttapped.
+
+    Girl when I hock there time (Cone came or news
+
+    While the kids that come 
+
+---
+
+    ano man
+
+    And I have to those who your mean
+
+    You just don't care but the door
+
+    And when she, bye, bye, bye, really for the nag. 
+
+    Say about look songs
+
+    I'd be good, and og clame it
+
+    Well all my swem and said to me
+
+    And when you talked up
+
+    Like town, tired every right. 
+
+    But what the way we still not so I can stuped for us to high
+
+    and we're waiting flie.
+
+    And year enough your say there
+
+    Who Xcom, you throw yourself
+
+    Who was it all they stayed out your lovery. 
+
+    I just want my home that highwest it's uspares
 
 ---
 
