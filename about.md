@@ -10,7 +10,7 @@ Nathan Yocum
 Student, Computer Science and Engineering
 -----------------------------------------
 
-Nathan Yocum is a student studying computer science and engineering at the [University of Nevada][https://www.unr.edu/cse/]. He has a strong focus in mathematics with additional coursework in statistics and Abstract Algebra.
+Nathan Yocum is a student studying computer science and engineering at the [University of Nevada][cse]. He has a strong focus in mathematics with additional coursework in statistics and Abstract Algebra.
 
 Work Experience
 ---------------
@@ -176,3 +176,6 @@ Responsibilities:
 *   Run community service
 *   Maintain attendance of the chapter in chapter meetings and comittee meetings
 *   Communicate chapter operations to the national organization
+
+
+[cse]: https://www.unr.edu/cse/
