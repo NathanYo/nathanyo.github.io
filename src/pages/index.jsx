@@ -18,7 +18,7 @@ const IndexPage = () => (
       ]}
     />
     <h1>Hello World!</h1>
-    <FaGrin size="300px" />
+    <FaGrin size="200px" />
     <p>This site is under construction!</p>
     <p>
       I am very busy working on my{' '}
