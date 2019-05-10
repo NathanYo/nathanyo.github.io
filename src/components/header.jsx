@@ -1,17 +1,20 @@
 import React, { useState, useEffect, useReducer } from 'react';
 import { Link } from 'gatsby';
 import PropTypes from 'prop-types';
-import styled from 'styled-components';
+import styled from '@emotion/styled';
 import { FaHome, FaScroll, FaLink, FaBars } from 'react-icons/fa';
-import useWindowWidth from '../hooks/useWindoWidth';
+import useWindowWidth from '../hooks/useWindowWidth';
+import colors from '../colors';
 
 const NavBarStyle = styled.nav`
   height: 56px;
-  color: #e64a19;
-  background-color: #6ab7ff;
+  color: ${colors.white};
+  background-color: ${colors.primary};
   font-size: 24px;
   display: flex;
-  align-items: flex-end;
+  align-items: center;
+  padding-left: 8px;
+  padding-right: 8px;
 `;
 
 const MenuStyle = styled.div`
@@ -34,7 +37,7 @@ const Header = ({ siteTitle }) => {
   }, false);
   useEffect(() => dispatchRenderMenu('resize'), [isRenderingButton]);
   return (
-    <header>
+    <nav>
       <NavBarStyle>
         {isRenderingButton && (
           <FaBars
@@ -135,7 +138,7 @@ const Header = ({ siteTitle }) => {
           </Link>
         </MenuStyle>
       )}
-    </header>
+    </nav>
   );
 };
 

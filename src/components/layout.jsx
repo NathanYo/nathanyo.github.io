@@ -1,17 +1,11 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { StaticQuery, graphql } from 'gatsby';
-import styled, { createGlobalStyle } from 'styled-components';
+import { Global, css } from '@emotion/core';
+import styled from '@emotion/styled';
 
 import Header from './header';
-
-const Global = createGlobalStyle`
-  body {
-    margin: 0;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  }
-`;
+import useWindowWidth from '../hooks/useWindowWidth';
 
 const LayoutGrid = styled.div`
   display: grid;
@@ -21,33 +15,47 @@ const LayoutGrid = styled.div`
   font-size: 18px;
 `;
 
-const Layout = ({ children }) => (
-  <StaticQuery
-    query={graphql`
-      query SiteTitleQuery {
-        site {
-          siteMetadata {
-            title
+const Layout = ({ children }) => {
+  const width = useWindowWidth();
+
+  return (
+    <>
+      <Global
+        styles={css`
+          body {
+            margin: 0;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
           }
-        }
-      }
-    `}
-    render={data => (
-      <>
-        <Global />
-        <Header siteTitle={data.site.siteMetadata.title} />
-        <LayoutGrid>
-          <main>{children}</main>
-          <footer>
-            © {new Date().getFullYear()}, Built with
-            {` `}
-            <a href="https://www.gatsbyjs.org">Gatsby</a>
-          </footer>
-        </LayoutGrid>
-      </>
-    )}
-  />
-);
+        `}
+      />
+      <StaticQuery
+        query={graphql`
+          query SiteTitleQuery {
+            site {
+              siteMetadata {
+                title
+              }
+            }
+          }
+        `}
+        render={data => {
+          if (width === 0) {
+            return <></>;
+          }
+          return (
+            <>
+              <Header siteTitle={data.site.siteMetadata.title} />
+              <LayoutGrid>
+                <main>{children}</main>
+              </LayoutGrid>
+            </>
+          );
+        }}
+      />
+    </>
+  );
+};
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired

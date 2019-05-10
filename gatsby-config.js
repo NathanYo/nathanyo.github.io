@@ -13,6 +13,7 @@ module.exports = {
         path: `${__dirname}/src/images`
       }
     },
+    `gatsby-plugin-emotion`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
@@ -21,14 +22,11 @@ module.exports = {
         name: `gatsby-starter-default`,
         short_name: `starter`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: '#ffffff',
+        theme_color: '#111111',
         display: `minimal-ui`,
         icon: `src/images/logo.png`
       }
     }
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // 'gatsby-plugin-offline',
   ]
 };
