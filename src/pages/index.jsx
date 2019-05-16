@@ -19,12 +19,8 @@ const IndexPage = () => (
     />
     <h1>Hello World!</h1>
     <FaGrin size="200px" />
+    <p>My name is Nathan Yocum.</p>
     <p>This site is under construction!</p>
-    <p>
-      I am very busy working on my{' '}
-      <a href="https://github.com/LectureGoggles/">Senior Project</a> so I will
-      be very slow updating this site.
-    </p>
   </Layout>
 );
 

@@ -7,8 +7,8 @@ import useWindowWidth from '../hooks/useWindowWidth';
 import colors from '../colors';
 
 const NavBarStyle = styled.nav`
-  height: 56px;
-  color: ${colors.white};
+  min-height: 56px;
+  color: ${colors.black};
   background-color: ${colors.primary};
   font-size: 24px;
   display: flex;
@@ -21,8 +21,8 @@ const MenuStyle = styled.div`
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  background-color: #a1e9ff;
-  color: #ac0800;
+  background-color: ${colors.primary};
+  color: ${colors.white};
 `;
 
 const Header = ({ siteTitle }) => {
@@ -37,7 +37,7 @@ const Header = ({ siteTitle }) => {
   }, false);
   useEffect(() => dispatchRenderMenu('resize'), [isRenderingButton]);
   return (
-    <nav>
+    <>
       <NavBarStyle>
         {isRenderingButton && (
           <FaBars
@@ -138,7 +138,7 @@ const Header = ({ siteTitle }) => {
           </Link>
         </MenuStyle>
       )}
-    </nav>
+    </>
   );
 };
 
